@@ -3,7 +3,7 @@
 
 
  
-![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![Hacktoberfest 2021](https://ci3.googleusercontent.com/proxy/_UF9aTZSSyYmZt0ycjgjVm8OeaPu1FLgw5RodaScdAr13vNiUx3ydLiRNzmt710F48z0UCCbuYauZqozKK1HMD32LqBxT5t9qGeXjLMzLE4iR4JXiLzI1_8NBEZUnZbYdI1ftkJCeOt8urbnNufb6A=s0-d-e1-ft#https://marketing.nyc3.cdn.digitaloceanspaces.com/Hacktoberfest/2021/footer-sponsors-dark.png)
 
 
 ***
